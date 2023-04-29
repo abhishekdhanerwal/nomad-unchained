@@ -1,0 +1,82 @@
+.scrollSection {
+  margin-top: 64px;
+  margin-left: 56px;
+  margin-right: 56px;
+}
+
+.headingContainer {
+  display: flex;
+  align-items: center;
+}
+
+.headingSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.subHeading {
+  margin-top: 8px;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.btn {
+  margin-left: auto;
+}
+
+.scrollContainer {
+  display: flex;
+  overflow-x: auto;
+  width: 100%;
+  margin-top: 24px;
+}
+
+.paper {
+  min-width: 250px;
+  height: 270px;
+  margin-right: 40px;
+  cursor: pointer;
+  border: 1px solid #e2e2e2;
+  background-color: inherit;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: none;
+  position: relative;
+}
+
+.image {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.imageDetails {
+  padding: 8px;
+  margin-top: 8px;
+}
+
+.paper:hover .imageHeading {
+  color: #fa6e02;
+  font-weight: 500;
+}
+
+@media only screen and (max-width: 600px) {
+  .scrollSection {
+    margin-top: 64px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .headingContainer {
+    flex-direction: column;
+  }
+  .btn {
+    margin-top: 20px;
+  }
+  .paper {
+    min-width: 290px;
+  }
+}

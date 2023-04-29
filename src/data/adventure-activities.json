@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Roopkund Trek",
+    "image": "delhi.jpg",
+    "description": "The Roopkund Trek is a high-altitude trek in the Himalayas, known for its mysterious lake which is filled with hundreds of human skeletons.",
+    "facts": [
+      "The lake is at an altitude of 5,029 meters",
+      "The trek is about 53 km long",
+      "The best time to do the trek is from May to June and from September to October"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Valley of Flowers Trek",
+    "image": "delhi.jpg",
+    "description": "The Valley of Flowers Trek is a popular trek in Uttarakhand, known for its stunning natural beauty and a vast variety of flowers.",
+    "facts": [
+      "The Valley of Flowers is a UNESCO World Heritage Site",
+      "The trek is about 17 km long",
+      "The best time to do the trek is from July to September"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Hampta Pass Trek",
+    "image": "delhi.jpg",
+    "description": "The Hampta Pass Trek is a popular trek in Himachal Pradesh, known for its stunning views of the Himalayas and the lush green valleys.",
+    "facts": [
+      "The pass is at an altitude of 4,270 meters",
+      "The trek is about 35 km long",
+      "The best time to do the trek is from June to October"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Chadar Trek",
+    "image": "delhi.jpg",
+    "description": "The Chadar Trek is a challenging trek in Ladakh, known for its frozen river and the extreme cold weather conditions.",
+    "facts": [
+      "The trek is about 105 km long",
+      "The best time to do the trek is from January to February",
+      "The temperature can drop as low as -30°C"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Kedarkantha Trek",
+    "image": "delhi.jpg",
+    "description": "The Kedarkantha Trek is a popular winter trek in Uttarakhand, known for its stunning views of the Himalayas and the snow-covered peaks.",
+    "facts": [
+      "The summit is at an altitude of 3,850 meters",
+      "The trek is about 20 km long",
+      "The best time to do the trek is from December to March"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Brahmatal Trek",
+    "image": "delhi.jpg",
+    "description": "The Brahmatal Trek is a winter trek in Uttarakhand, known for its stunning views of the Himalayas and the frozen lake.",
+    "facts": [
+      "The summit is at an altitude of 3,850 meters",
+      "The trek is about 22 km long",
+      "The best time to do the trek is from December to March"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Sandakphu Trek",
+    "image": "delhi.jpg",
+    "description": "The Sandakphu Trek is a popular trek in West Bengal, known for its stunning views of the Himalayas and the highest peak in West Bengal.",
+    "facts": [
+      "The summit is at an altitude of 3,636 meters",
+      "The trek is about 32km long",
+      "The best time to do the trek is from April to June and from September to December"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Har Ki Dun Trek",
+    "image": "delhi.jpg",
+    "description": "The Har Ki Dun Trek is a popular trek in Uttarakhand, known for its stunning views of the Himalayas and the lush green valleys.",
+    "facts": [
+      "The valley is at an altitude of 3,556 meters",
+      "The trek is about 47 km long",
+      "The best time to do the trek is from April to June and from September to November"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Markha Valley Trek",
+    "image": "delhi.jpg",
+    "description": "The Markha Valley Trek is a popular trek in Ladakh, known for its stunning views of the Himalayas and the unique culture of the region.",
+    "facts": [
+      "The valley is at an altitude of 3,700 meters",
+      "The trek is about 82 km long",
+      "The best time to do the trek is from June to September"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Rupin Pass Trek",
+    "image": "delhi.jpg",
+    "description": "The Rupin Pass Trek is a challenging trek in Uttarakhand, known for its stunning views of the Himalayas and the unique landscape of the region.",
+    "facts": [
+      "The pass is at an altitude of 4,650 meters",
+      "The trek is about 52 km long",
+      "The best time to do the trek is from May to June and from September to October"
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "image": "delhi.jpg",
+    "name": "Delhi",
+    "description": "Delhi is the capital city of India and is known for its rich history, diverse culture, and bustling markets.",
+    "facts": [
+      "The Red Fort, a UNESCO World Heritage Site, is located in Delhi.",
+      "Delhi is home to India's largest mosque, Jama Masjid.",
+      "The Lotus Temple, a Bahá'í House of Worship, is a popular tourist attraction in Delhi."
+    ]
+  },
+  {
+    "id": "2",
+    "image": "delhi.jpg",
+    "name": "Mumbai",
+    "description": "Mumbai, formerly known as Bombay, is the financial capital of India and is known for its vibrant nightlife, street food, and Bollywood.",
+    "facts": [
+      "Mumbai is home to the Gateway of India, a monument built during the British Raj.",
+      "The Chhatrapati Shivaji Terminus railway station in Mumbai is a UNESCO World Heritage Site.",
+      "Bollywood, the Indian film industry, is based in Mumbai."
+    ]
+  },
+  {
+    "id": "3",
+    "image": "delhi.jpg",
+    "name": "Jaipur",
+    "description": "Jaipur is known as the 'Pink City' for its distinctive pink buildings and is a popular destination for its rich history, palaces, and forts.",
+    "facts": [
+      "The Hawa Mahal, or Palace of Winds, is a famous landmark in Jaipur.",
+      "The Amer Fort, a UNESCO World Heritage Site, is located in Jaipur.",
+      "Jaipur is known for its traditional Rajasthani cuisine, including dal-baati-churma and laal maas."
+    ]
+  },
+  {
+    "id": "4",
+    "image": "delhi.jpg",
+    "name": "Agra",
+    "description": "Agra is known for its iconic monument, the Taj Mahal, which is one of the Seven Wonders of the World.",
+    "facts": [
+      "The Taj Mahal was built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "Agra Fort, a UNESCO World Heritage Site, is located in Agra.",
+      "Agra is known for its marble handicrafts and leather goods."
+    ]
+  },
+  {
+    "id": "5",
+    "image": "delhi.jpg",
+    "name": "Goa",
+    "description": "Goa is a coastal state known for its beaches, nightlife, and Portuguese colonial architecture.",
+    "facts": [
+      "Goa was a Portuguese colony until 1961.",
+      "Goa is known for its seafood cuisine, especially fish curry and rice.",
+      "The Basilica of Bom Jesus, a UNESCO World Heritage Site, is located in Goa."
+    ]
+  },
+  {
+    "id": "6",
+    "image": "delhi.jpg",
+    "name": "Udaipur",
+    "description": "Udaipur is known as the 'City of Lakes' for its picturesque lakes and palaces, and is a popular destination for its rich history and culture.",
+    "facts": [
+      "The Lake Palace, a former royal palace located on an island in Lake Pichola, is a famous landmark in Udaipur.",
+      "The City Palace, a complex of palaces and museums, is a popular tourist attraction in Udaipur.",
+      "Udaipur is known for its traditional Rajasthani handicrafts, including miniature paintings and silver jewelry."
+    ]
+  },
+  {
+    "id": "7",
+    "image": "delhi.jpg",
+    "name": "Varanasi",
+    "description": "Varanasi is one of the oldest continuously inhabited cities in the world and is considered a holy city in Hinduism, Buddhism, and Jainism.",
+    "facts": [
+      "Varanasi is located on the banks of the Ganges river, which is considered sacred in Hinduism.",
+      "The Kashi Vishwanath Temple, one of the holiest Hindu temples, is located in Varanasi.",
+      "Varanasi is known for its ghats, or steps leading down to the river, where people bathe and perform religious ceremonies."
+    ]
+  },
+  {
+    "id": "8",
+    "image": "delhi.jpg",
+    "name": "Haridwar",
+    "description": "Haridwar is an ancient city in Uttarakhand and is one of the seven holiest places in Hinduism. It is known for its religious significance, scenic beauty, and vibrant culture.",
+    "facts": [
+      "Har Ki Pauri, a ghat on the banks of the Ganges, is a famous landmark in Haridwar and is believed to be the spot where Lord Vishnu left his footprint.",
+      "The Chandi Devi Temple, a hilltop temple dedicated to Goddess Chandi, is another popular tourist attraction in Haridwar.",
+      "Haridwar is known for its sweets, including peda and laddoo, and its street food, including kachori and chaat."
+    ]
+  },
+  {
+    "id": "9",
+    "image": "delhi.jpg",
+    "name": "Rishikesh",
+    "description": "Rishikesh is a spiritual city in Uttarakhand known for its religious significance, scenic beauty, and adventure sports.",
+    "facts": [
+      "The Triveni Ghat, a confluence of three holy rivers, is a famous landmark in Rishikesh.",
+      "The Beatles Ashram, a former ashram where the Beatles stayed in the 1960s, is a popular tourist attraction in Rishikesh.",
+      "Rishikesh is known for its local cuisine, including kachaudi and aloo-puri, and its adventure sports, including rafting and bungee jumping."
+    ]
+  },
+  {
+    "id": "10",
+    "image": "delhi.jpg",
+    "name": "Manali",
+    "description": "Manali is a beautiful hill station located in the Kullu Valley of Himachal Pradesh known for its natural beauty, adventure sports, and religious significance.",
+    "facts": [
+      "The Hidimba Devi Temple, a 16th-century temple dedicated to Goddess Hidimba, is a popular attraction in Manali.",
+      "The Rohtang Pass, a high mountain pass located at an altitude of 3,979 meters, offers breathtaking views of the surrounding mountains and is a popular spot for trekking and skiing.",
+      "Manali is known for its woolen garments, including shawls and caps, and its local cuisine, including trout fish and patande."
+    ]
+  },
+  {
+    "id": "11",
+    "image": "delhi.jpg",
+    "name": "Dharamshala",
+    "description": "Dharamshala is a hill station located in the Kangra Valley of Himachal Pradesh known for its natural beauty, cultural heritage, and religious significance.",
+    "facts": [
+      "The Namgyal Monastery, a 16th-century monastery and the largest Tibetan temple outside of Tibet, is located in Dharamshala and is a popular attraction.",
+      "The McLeod Ganj, a suburb of Dharamshala, is home to several Tibetan refugees and is a popular spot for shopping and dining.",
+      "Dharamshala is known for its handicrafts, including Tibetan carpets and thangkas, and its local cuisine, including momos and thukpa."
+    ]
+  },
+  {
+    "id": "12",
+    "image": "delhi.jpg",
+    "name": "Shimla",
+    "description": "Shimla is the capital city of Himachal Pradesh and a popular hill station known for its colonial-era architecture, scenic beauty, and pleasant climate.",
+    "facts": [
+      "The Shimla Ridge, a large open space in the heart of the city, offers stunning views of the surrounding mountains and is a popular spot for picnics.",
+      "The Jakhu Temple, a 19th-century temple dedicated to Lord Hanuman, is located on Jakhu Hill and is a popular attraction in Shimla.",
+      "Shimla is known for its handicrafts, including woolen shawls, carpets, and traditional Himachali caps, and its local cuisine, including chha ghost and sidu."
+    ]
+  },
+  {
+    "id": "13",
+    "image": "delhi.jpg",
+    "name": "Amritsar",
+    "description": "Amritsar is a city in the northern state of Punjab and is known for its rich Sikh heritage and history.",
+    "facts": [
+      "The Golden Temple, also known as Harmandir Sahib, is the holiest Sikh shrine and a famous tourist attraction in Amritsar.",
+      "The Jallianwala Bagh, a public garden that is now a national monument, is located in Amritsar and is a site of historical importance.",
+      "Amritsar is known for its Punjabi cuisine, including tandoori chicken and butter chicken."
+    ]
+  },
+  {
+    "id": "14",
+    "image": "delhi.jpg",
+    "name": "Dehradun",
+    "description": "Dehradun is the capital city of Uttarakhand and is known for its pleasant climate, scenic beauty, and proximity to popular hill stations.",
+    "facts": [
+      "The Clock Tower, a historic landmark, is a popular attraction in Dehradun.",
+      "The Forest Research Institute, a premier institution for forestry research, is located in Dehradun.",
+      "Dehradun is known for its Basmati rice and other agricultural produce, including lychees and mangos."
+    ]
+  },
+  {
+    "id": "15",
+    "image": "delhi.jpg",
+    "name": "Mussoorie",
+    "description": "Mussoorie is a popular hill station in Uttarakhand known for its scenic beauty, pleasant weather, and colonial-era architecture.",
+    "facts": [
+      "The Mall Road, a famous shopping and dining destination, is a popular attraction in Mussoorie.",
+      "Kempty Falls, a scenic waterfall, is another popular tourist spot in Mussoorie.",
+      "Mussoorie is known for its woolen shawls, handicrafts, and local cuisine, including Garhwali dishes like bal mithai and singodi."
+    ]
+  },
+  {
+    "id": "16",
+    "image": "delhi.jpg",
+    "name": "Nainital",
+    "description": "Nainital is a picturesque hill station in Uttarakhand known for its serene lakes, scenic beauty, and colonial-era architecture.",
+    "facts": [
+      "Nainital Lake, a natural freshwater lake surrounded by hills, is a famous attraction in Nainital.",
+      "The Naina Devi Temple, a 15th-century temple dedicated to Goddess Naina Devi, is another popular tourist spot in Nainital.",
+      "Nainital is known for its handmade candles, wooden handicrafts, and local cuisine, including bhatt ki churkani and aloo ke gutke."
+    ]
+  },
+  {
+    "id": "17",
+    "image": "delhi.jpg",
+    "name": "Almora",
+    "description": "Almora is a hill station in Uttarakhand known for its natural beauty, cultural heritage, and religious significance.",
+    "facts": [
+      "The Kasar Devi Temple, a 2nd-century temple dedicated to Kasar Devi, is a popular attraction in Almora.",
+      "The Binsar Wildlife Sanctuary, home to several species of flora and fauna, is another popular tourist spot in Almora.",
+      "Almora is known for its handicrafts, including intricate wood carvings, and its local cuisine, including baadi and gulgula."
+    ]
+  },
+  {
+    "id": "18",
+    "image": "delhi.jpg",
+    "name": "Ranikhet",
+    "description": "Ranikhet is a picturesque hill station in Uttarakhand known for its natural beauty, pleasant weather, and colonial-era architecture.",
+    "facts": [
+      "The Jhula Devi Temple, a 9th-century temple dedicated to Goddess Durga, is a famous attraction in Ranikhet.",
+      "The Chaubatia Gardens, home to several species of fruit trees, is another popular tourist spot in Ranikhet.",
+      "Ranikhet is known for its woolen garments, including shawls and blankets, and its local cuisine, including baadi and aloo ke gutke."
+    ]
+  },
+  {
+    "id": "19",
+    "image": "delhi.jpg",
+    "name": "Dalhousie",
+    "description": "Dalhousie is a hill station located in the Chamba district of Himachal Pradesh known for its natural beauty, colonial-era architecture, and religious significance.",
+    "facts": [
+      "The St. Francis Church, a 19th-century church built in Gothic style, is a popular attraction in Dalhousie.",
+      "The Khajjiar Lake, also known as the 'Mini Switzerland of India', is located near Dalhousie and is a popular spot for boating and picnics.",
+      "Dalhousie is known for its handicrafts, including woolen shawls and carpets, and its local cuisine, including chha ghost and sidu."
+    ]
+  },
+  {
+    "id": "20",
+    "image": "delhi.jpg",
+    "name": "Kullu",
+    "description": "Kullu is a beautiful valley located in the Himachal Pradesh known for its natural beauty, adventure sports, and religious significance.",
+    "facts": [
+      "The Raghunath Temple, a 17th-century temple dedicated to Lord Rama, is a popular attraction in Kullu.",
+      "The Great Himalayan National Park, home to several species of flora and fauna, is located near Kullu and is a popular spot for trekking and camping.",
+      "Kullu is known for its handicrafts, including shawls and caps, and its local cuisine, including trout fish and siddu."
+    ]
+  }
+]
