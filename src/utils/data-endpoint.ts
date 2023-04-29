@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import util from 'util';
-import { PlaceData } from '@/pages/types';
+import { PlaceData } from '@/components/types';
 
 const getList = async (fileName: string) => {
   const filePath = path.join(process.cwd(), 'src', 'data', fileName);

@@ -1,4 +1,4 @@
-import { PlaceData } from '@/pages/types';
+import { PlaceData } from '@/components/types';
 import { Button, Paper, Tooltip } from '@mui/material';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import Image from 'next/image';

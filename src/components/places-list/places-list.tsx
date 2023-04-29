@@ -1,6 +1,6 @@
 import { useTheme } from '@mui/material/styles';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { PlaceData } from '@/pages/types';
+import { PlaceData } from '@/components/types';
 import { Card } from '../cards/cards';
 
 export function PlacesList({ list, basePath }: { list: PlaceData[]; basePath: string }) {

@@ -1,5 +1,5 @@
 import { Detail } from '@/components/detail/detail';
-import { PlaceData } from '@/pages/types';
+import { PlaceData } from '@/components/types';
 import { getCityList } from '@/utils/data-endpoint';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import { ParsedUrlQuery } from 'querystring';

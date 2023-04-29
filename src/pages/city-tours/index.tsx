@@ -1,6 +1,6 @@
 import { GetStaticProps } from 'next';
 
-import { HomeProps } from '@/pages/types';
+import { HomeProps } from '@/components/types';
 import { PlacesList } from '@/components/places-list/places-list';
 import { getCityList } from '@/utils/data-endpoint';
 

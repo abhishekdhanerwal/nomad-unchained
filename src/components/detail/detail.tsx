@@ -1,5 +1,5 @@
 import { OutlinedTimeline } from '@/components/timeline';
-import { PlaceData } from '@/pages/types';
+import { PlaceData } from '@/components/types';
 import { Box } from '@mui/material';
 
 export function Detail(data: PlaceData) {

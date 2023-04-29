@@ -2,7 +2,7 @@ import Head from 'next/head';
 import { Home } from '@/components/home/home';
 import { GetStaticProps } from 'next';
 
-import { HomeProps } from './types';
+import { HomeProps } from '../components/types';
 import { getHomeList } from '@/utils/data-endpoint';
 
 export default function HomePage(props: HomeProps) {

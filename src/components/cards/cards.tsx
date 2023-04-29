@@ -1,7 +1,7 @@
 import { useTheme } from '@mui/material/styles';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
-import { PlaceData } from '@/pages/types';
+import { PlaceData } from '@/components/types';
 import { Button, Paper } from '@mui/material';
 import { useRouter } from 'next/router';
 import style from './cards.module.css';

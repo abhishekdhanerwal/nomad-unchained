@@ -1,7 +1,7 @@
 import { Box, Button } from '@mui/material';
 
 import { ScrollableSection } from '@/components/scrollable-section/scrollable-section';
-import { PlaceData } from '@/pages/types';
+import { PlaceData } from '@/components/types';
 import { Info } from './info';
 
 
