@@ -18,7 +18,7 @@ export default function UserDetails({ users }: InferGetStaticPropsType<typeof ge
       Users List
       <ul>
         {users.map((item) => (
-          <Link href={`/users/${item.id}`}>
+          <Link key={item.id} href={`/users/${item.id}`}>
             <li key={item.id}>{item.name}</li>
           </Link>
         ))}

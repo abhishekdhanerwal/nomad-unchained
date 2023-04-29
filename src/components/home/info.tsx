@@ -15,7 +15,7 @@ export function Info() {
                     <div className={style.reviewDetails}>
                         <span>JOHN DOE</span>
                         <Rating name="size-large" defaultValue={4} size="large" />
-                        <span>I must say I was delighted with the service you provided - it was just what I wanted. This is the second time I have used your services, and both times you provided a faultless experience. I will definitely recommend you to others, and will use you myself when I travel to India again. I don't have any immediate plans, but hope to visit India again within the next two years</span>
+                        <span>{`I must say I was delighted with the service you provided - it was just what I wanted. This is the second time I have used your services, and both times you provided a faultless experience. I will definitely recommend you to others, and will use you myself when I travel to India again. I don't have any immediate plans, but hope to visit India again within the next two years`}</span>
                     </div>
                 </div>  
             </div>

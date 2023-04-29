@@ -17,7 +17,7 @@ export function OutlinedTimeline({ list }: { list: string[] }) {
       }}
     >
       {list.map((item, ind, arr) => (
-        <TimelineItem>
+        <TimelineItem key={ind}>
           <TimelineSeparator>
             <TimelineDot variant='outlined' />
             {arr[ind + 1] ? <TimelineConnector /> : null}

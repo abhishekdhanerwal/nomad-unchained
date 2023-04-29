@@ -12,7 +12,7 @@ export function PlacesList({ list, basePath }: { list: PlaceData[]; basePath: st
       <div style={{ display: 'flex', flexWrap: 'wrap' }}>
         {list.map((item) => (
           // <div style={{width: 574, height: 376, backgroundColor: 'black', marginBottom: 20}}></div>
-          <Card basePath={basePath} {...item} />
+          <Card key={item.id} basePath={basePath} {...item} />
         ))}
       </div>
       {/* <div style={matches ? { display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gridGap: 20 } : { display: 'grid', gridTemplateColumns: 'repeat(1, 1fr)', gridGap: 20 }}>
